@@ -1,0 +1,16 @@
+
+
+[1m> Entering new LLMChain chain...[0m
+Prompt after formatting:
+[32;1m[1;3mConversation:: + What is the capital of United States? = [0m
+
+[1m> Finished chain.[0m
+[32m2024-01-03 09:48:38.639[0m | [1mINFO    [0m | [36m__main__[0m:[36m<module>[0m:[36m18[0m - [1mAnswer:: United States Capitol, Washington, D.C.[0m
+
+
+[1m> Entering new LLMChain chain...[0m
+Prompt after formatting:
+[32;1m[1;3mConversation:: + What is the capital of United States? = [0m
+
+[1m> Finished chain.[0m
+[32m2024-01-03 13:03:55.561[0m | [1mINFO    [0m | [36m__main__[0m:[36m<module>[0m:[36m15[0m - [1mAnswer:: United States Capitol, Washington, D.C.[0m
